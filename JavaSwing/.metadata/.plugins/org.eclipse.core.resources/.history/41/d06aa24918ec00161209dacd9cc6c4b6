@@ -1,0 +1,131 @@
+package CategoryClassification;
+
+import java.awt.EventQueue;
+
+import javax.swing.*;
+import java.awt.event.ActionListener;
+import java.awt.event.ActionEvent;
+import java.awt.Color;
+
+public class ClassificationFrame {
+
+	private JFrame frame;
+	private JTable table;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					ClassificationFrame window = new ClassificationFrame();
+					window.frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public ClassificationFrame() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frame = new JFrame();
+		frame.setBounds(50, 50, 1150, 700);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.getContentPane().setLayout(null);
+		
+		JList list = new JList();
+		list.setBounds(6, 6, 280, 666);
+		frame.getContentPane().add(list);
+		
+		JList list_1 = new JList();
+		list_1.setBounds(952, 6, 192, 666);
+		frame.getContentPane().add(list_1);
+		
+		JTextPane textPane = new JTextPane();
+		textPane.setBounds(292, 6, 654, 55);
+		frame.getContentPane().add(textPane);
+		
+		table = new JTable();
+		table.setBounds(292, 67, 593, 220);
+		frame.getContentPane().add(table);
+		
+		JButton btnNewButton = new JButton(">>");
+		btnNewButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		btnNewButton.setBounds(889, 145, 59, 60);
+		frame.getContentPane().add(btnNewButton);
+		
+		JButton btnNewButton_1 = new JButton("수정");
+		btnNewButton_1.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		btnNewButton_1.setBounds(287, 290, 220, 30);
+		frame.getContentPane().add(btnNewButton_1);
+		
+		JButton button = new JButton("추가");
+		button.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		button.setBounds(509, 290, 220, 30);
+		frame.getContentPane().add(button);
+		
+		JButton button_1 = new JButton("삭제");
+		button_1.setBounds(731, 290, 220, 30);
+		frame.getContentPane().add(button_1);
+		
+		JSeparator partition = new JSeparator();
+		partition.setForeground(Color.BLACK);
+		partition.setSize(660, 0);
+		partition.setLocation(287, 328);
+		frame.getContentPane().add(partition);
+		
+		JTextPane textPane_1 = new JTextPane();
+		textPane_1.setBounds(291, 344, 655, 40);
+		frame.getContentPane().add(textPane_1);
+		
+		JList list_2 = new JList();
+		list_2.setBounds(292, 390, 214, 250);
+		frame.getContentPane().add(list_2);
+		
+		JList list_3 = new JList();
+		list_3.setBounds(512, 390, 214, 250);
+		frame.getContentPane().add(list_3);
+		
+		JList list_4 = new JList();
+		list_4.setBounds(732, 390, 214, 250);
+		frame.getContentPane().add(list_4);
+		
+		JButton btnNewButton_2 = new JButton("수정정보 저장");
+		btnNewButton_2.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		btnNewButton_2.setBounds(287, 643, 335, 30);
+		frame.getContentPane().add(btnNewButton_2);
+		
+		JButton button_2 = new JButton("취소");
+			
+		JSeparator separator = new JSeparator();
+		separator.setBounds(286, 320, 666, 14);
+		frame.getContentPane().add(separator);
+;
+		button_2.setBounds(616, 643, 335, 30);
+		frame.getContentPane().add(button_2);
+
+	}
+}

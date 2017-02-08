@@ -1,0 +1,82 @@
+package XmlData;
+
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JList;
+import javax.swing.JButton;
+import javax.swing.JScrollPane;
+
+public class jFrame extends JFrame {
+
+	private JPanel contentPane;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					jFrame frame = new jFrame();
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public jFrame() {
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 512, 550);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+		
+		JList list1 = new JList();
+		list1.setBounds(8, 8, 118, 280);
+		contentPane.add(list1);
+		
+		JList list2 = new JList();
+		list2.setBounds(134, 8, 118, 280);
+		contentPane.add(list2);
+		
+		JList list3 = new JList();
+		list3.setBounds(260, 8, 118, 280);
+		contentPane.add(list3);
+		
+		JList list4 = new JList();
+		list4.setBounds(386, 8, 118, 280);
+		contentPane.add(list4);
+		
+		JButton button1 = new JButton("+");
+		button1.setBounds(8, 284, 118, 29);
+		contentPane.add(button1);
+		
+		JButton button2 = new JButton("+");
+		button2.setBounds(134, 284, 118, 29);
+		contentPane.add(button2);
+		
+		JButton button3 = new JButton("+");
+		button3.setBounds(260, 284, 118, 29);
+		contentPane.add(button3);
+		
+		JButton button4 = new JButton("+");
+		button4.setBounds(386, 284, 118, 29);
+		contentPane.add(button4);
+		
+		JList list = new JList();
+		list.setBounds(6, 327, 490, 128);
+		contentPane.add(list);
+		
+		
+	}
+}

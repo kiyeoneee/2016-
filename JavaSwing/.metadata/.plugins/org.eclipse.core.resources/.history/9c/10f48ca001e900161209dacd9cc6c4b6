@@ -1,0 +1,264 @@
+package XmlData;
+
+import java.io.*;
+import java.util.*;
+
+import java.awt.*;
+import java.awt.event.*;
+
+import javax.swing.*;
+import javax.swing.border.EmptyBorder;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+import org.w3c.dom.*;
+import org.w3c.dom.traversal.DocumentTraversal;
+import org.w3c.dom.traversal.NodeFilter;
+import org.w3c.dom.traversal.TreeWalker;
+
+public class XmlMain extends JFrame implements ActionListener, MouseListener {
+	private JPanel contentPane;
+	private JList categoryList1, categoryList2, categoryList3, categoryList4;
+	private DefaultListModel jModel1 = new DefaultListModel(), jModel2 = new DefaultListModel(),
+			jModel3 = new DefaultListModel(), jModel4 = new DefaultListModel();
+	private JFrame jFrame = new JFrame();
+	
+	private String category1Idx, category2Idx, category3Idx, category4Idx;
+	private boolean category1picked, category2picked, category3picked, category4picked;
+	private HashMap categoryData = new HashMap();
+	
+	public void viewModel(int depth, String toFind){
+		
+	}
+	
+	public XmlMain() {
+		try {
+			setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+			setResizable(false);
+
+			File xmlFile = new File("test.xml");
+
+			DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder builder = factory.newDocumentBuilder();
+			Document document = builder.parse(xmlFile);
+
+			document.getDocumentElement().normalize();
+
+			NodeList node = document.getElementsByTagName("name");
+			NodeList categoryList = node.item(0).getChildNodes();
+
+			categoryData = getData(categoryList);
+			Set key = categoryData.keySet();
+			Iterator iterator = key.iterator();
+			while (iterator.hasNext())
+				jModel1.addElement(iterator.next().toString());
+
+			frameSet();
+			this.setVisible(true);
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
+	public void frameSet() {
+		category1Idx = category2Idx = category3Idx = category4Idx = null;
+		category1picked = category2picked = category3picked = category4picked = false;
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 512, 532);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+
+		categoryList1 = new JList(jModel1);
+		categoryList1.addMouseListener(this);
+		contentPane.add(new JScrollPane(categoryList1)).setBounds(8, 8, 118, 268);
+
+		categoryList2 = new JList(jModel2);
+		categoryList2.addMouseListener(this);
+		contentPane.add(new JScrollPane(categoryList2)).setBounds(134, 8, 118, 268);
+
+		categoryList3 = new JList(jModel3);
+		categoryList3.addMouseListener(this);
+		contentPane.add(new JScrollPane(categoryList3)).setBounds(260, 8, 118, 268);
+
+		categoryList4 = new JList(jModel4);
+		categoryList4.addMouseListener(this);
+		contentPane.add(new JScrollPane(categoryList4)).setBounds(386, 8, 118, 268);
+
+		JButton addButton1 = new JButton("+");
+		addButton1.setBounds(8, 277, 118, 29);
+		addButton1.addActionListener(this);
+		contentPane.add(addButton1);
+
+		JButton addButton2 = new JButton("+");
+		addButton2.setBounds(134, 277, 118, 29);
+		addButton2.addActionListener(this);
+		contentPane.add(addButton2);
+
+		JButton addButton3 = new JButton("+");
+		addButton3.setBounds(260, 277, 118, 29);
+		addButton3.addActionListener(this);
+		contentPane.add(addButton3);
+
+		JButton addButton4 = new JButton("+");
+		addButton4.setBounds(386, 277, 118, 29);
+		addButton4.addActionListener(this);
+		contentPane.add(addButton4);
+
+		JList itemList = new JList();
+		itemList.setBounds(8, 307, 496, 128);
+		contentPane.add(itemList);
+
+		JTextPane textPane = new JTextPane();
+		textPane.setBounds(8, 444, 380, 30);
+		contentPane.add(textPane);
+
+		JComboBox itemCategory = new JComboBox();
+		itemCategory.setBounds(4, 472, 417, 43);
+		contentPane.add(itemCategory);
+
+		JButton btnNewButton = new JButton("저장");
+		btnNewButton.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+			}
+		});
+		btnNewButton.setBounds(416, 479, 96, 29);
+		contentPane.add(btnNewButton);
+
+		JComboBox coreWord = new JComboBox();
+		coreWord.setBounds(390, 446, 120, 27);
+		contentPane.add(coreWord);
+	}
+
+	public String changeTag(Node n) {
+		String s = n.getNodeName();
+		s = s.replace("t1", "+");
+		s = s.replace("t2", "&");
+		s = s.replace("t3", "~");
+		s = s.replace("t4", "(");
+		s = s.replace("t5", ")");
+		s = s.replace("t6", ",");
+		s = s.replace("t7", "/");
+		s = s.replace("t8", " ");
+		s = s.replace("t9", "");
+
+		return s;
+	}
+
+	public HashMap getData(NodeList categoryList) {
+		if (categoryList.getLength() == 1 && categoryList.item(0).getNodeName() == "#text")
+			return null;
+
+		HashMap al = new HashMap();
+
+		for (int i = 0; i < categoryList.getLength(); i++) {
+			if (categoryList.item(i) instanceof Element == false)
+				continue;
+
+			String strOld = categoryList.item(i).getNodeName();
+			String strNew = changeTag(categoryList.item(i));
+			String str = categoryList.item(i).getNodeName().replace(strOld, strNew);
+
+			al.put(str, getData(categoryList.item(i).getChildNodes()));
+		}
+		return al;
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		XmlMain x = new XmlMain();
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		JOptionPane.showMessageDialog(null, e.getSource());
+		// TODO Auto-generated method stub
+		if (e.getSource().equals("addButton4")){
+			JOptionPane.showMessageDialog(null, "4");
+		}
+	}
+
+	@Override
+	public void mouseClicked(MouseEvent e) {
+		// TODO Auto-generated method stub
+		JList theList = (JList) e.getSource();
+		if (e.getClickCount() == 1) {
+			int index = theList.locationToIndex(e.getPoint());
+			if (index >= 0) {
+				HashMap getData = new HashMap();
+				String s = theList.getModel().getElementAt(index).toString();
+				//System.out.println("Double-clicked on: " + o.toString());
+				if(categoryData.containsKey(s)){
+					jModel2.clear(); jModel3.clear(); jModel4.clear();
+					category1Idx = s; category1picked = true;
+					getData = (HashMap) categoryData.get(s);
+					
+					Iterator iterator = getData.keySet().iterator();
+					while (iterator.hasNext())
+						jModel2.addElement(iterator.next().toString());
+					return;
+				}
+				//check 2nd category
+				getData = (HashMap) categoryData.get(category1Idx);
+				if(getData.containsKey(s)){
+					jModel3.clear(); jModel4.clear();
+					category2Idx = s; category2picked = true;
+					getData = (HashMap) getData.get(s);
+					
+					Iterator iterator = getData.keySet().iterator();
+					while(iterator.hasNext())
+						jModel3.addElement(iterator.next().toString());
+					return;
+				}
+				//check 3rd category
+				getData = (HashMap) getData.get(category2Idx);
+				if(getData.containsKey(s)){
+					jModel4.clear();
+					category3Idx = s; category3picked = true;
+					getData = (HashMap) getData.get(s);
+					if(getData == null){
+						JOptionPane.showMessageDialog(null, "하위 카테고리가 없습니다.");
+						return;
+					}
+					
+					Iterator iterator = getData.keySet().iterator();
+					while(iterator.hasNext())
+						jModel4.addElement(iterator.next().toString());
+					return;
+				}
+				//check 4th category
+				getData = (HashMap) getData.get(category3Idx);
+				if (getData.containsKey(s)){
+					category4Idx = s;
+					return;
+				}
+			}
+		}
+	}
+
+	@Override
+	public void mousePressed(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void mouseReleased(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void mouseEntered(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void mouseExited(MouseEvent e) {
+		// TODO Auto-generated method stub
+		
+	}
+}

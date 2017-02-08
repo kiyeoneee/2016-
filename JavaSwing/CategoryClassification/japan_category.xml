@@ -1,0 +1,1629 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<key name="101.家庭/生活">
+		<key name="106.引越し/運送">
+			<key name="102.引越し/保管"></key>
+			<key name="105.海運/船舶"></key>
+			<key name="101.保管/保存"></key>
+			<key name="104.海外引越し"></key>
+			<key name="100.交通/輸送会社"></key>
+			<key name="103.宅配/物流"></key>
+		</key>
+		<key name="107.趣味">
+			<key name="100.工芸"></key>
+			<key name="101.マジック"></key>
+			<key name="109.クロスステッチ/キルト"></key>
+			<key name="103.囲碁/将棋"></key>
+			<key name="108.収集"></key>
+			<key name="105.ビーズ工芸"></key>
+			<key name="107.書道"></key>
+			<key name="106.生活/趣味その他"></key>
+			<key name="104.盆栽"></key>
+			<key name="102.模型/プラモデル"></key>
+		</key>
+		<key name="100.家具/インテリア">
+			<key name="101.店頭ディスプレイ用品ショッピングモール"></key>
+			<key name="104.専門家具ショッピングモール"></key>
+			<key name="108.ポスター/フレームショッピングモール"></key>
+			<key name="109.ハーブ用品ショッピングモール"></key>
+			<key name="100.家具製造"></key>
+			<key name="103.インテリアメーカー"></key>
+			<key name="110.ホームインテリア用品通販"></key>
+			<key name="107.寝具/カーテンショッピングモール"></key>
+			<key name="105.総合家具ショッピングモール"></key>
+			<key name="106.中古家具ショッピングモール"></key>
+			<key name="102.インテリア施工"></key>
+		</key>
+		<key name="103.生活サービス">
+			<key name="102.その他のサービス"></key>
+			<key name="104.動画制作"></key>
+			<key name="111.清掃/選択"></key>
+			<key name="103.図書レンタル"></key>
+			<key name="112.コンベンションセンター/代行"></key>
+			<key name="107.眼鏡店"></key>
+			<key name="110.葬儀"></key>
+			<key name="105.苦情代行"></key>
+			<key name="106.写真館/スタジオ"></key>
+			<key name="101.警備/警護サービス"></key>
+			<key name="100.A/ Sセンター"></key>
+			<key name="109.命名"></key>
+			<key name="108.オンライン写真プリント"></key>
+		</key>
+		<key name="105.ペット">
+			<key name="100.動物病院"></key>
+			<key name="101.ペット分譲/用品"></key>
+		</key>
+		<key name="101.交通/天気/ガソリンやその他の生活情報">
+			<key name="107.電話番号/住所案内"></key>
+			<key name="111.プロダクション"></key>
+			<key name="105.移民"></key>
+			<key name="104.生活情報"></key>
+			<key name="100.景品情報"></key>
+			<key name="106.自炊/下宿"></key>
+			<key name="108.給油情報"></key>
+			<key name="101.高速道路情報"></key>
+			<key name="103.天気情報"></key>
+			<key name="102.交通情報"></key>
+			<key name="109.コンベンション/展示会"></key>
+			<key name="110.ファッション/美容情報"></key>
+		</key>
+		<key name="102.花/イベント/ギフト">
+			<key name="109.パーティー用品ショッピングモール"></key>
+			<key name="111.携帯電話アクセサリーショッピングモール"></key>
+			<key name="108.キャラクターグッズ"></key>
+			<key name="104.ギフト/デザイン小物ショッピングモール"></key>
+			<key name="102.花の配達サービス"></key>
+			<key name="103.ギフト券ショッピングモール"></key>
+			<key name="100.工芸品"></key>
+			<key name="105.猟奇用品"></key>
+			<key name="107.人形"></key>
+			<key name="101.軍人用品/軍慰問品ショッピングモール"></key>
+			<key name="106.娯楽"></key>
+			<key name="110.パズルショッピングモール"></key>
+		</key>
+		<key name="104.生活用品">
+			<key name="101.その他の専門生活用品"></key>
+			<key name="110.キッチン用品ブランド"></key>
+			<key name="108.宗教用品ショッピングモール"></key>
+			<key name="103.生活用品"></key>
+			<key name="104.生活用品ショッピングモール"></key>
+			<key name="109.キッチン用品"></key>
+			<key name="107.浄水器販売/レンタル"></key>
+			<key name="105.アダルトショッピングモール"></key>
+			<key name="111.歯ブラシ/歯磨き粉"></key>
+			<key name="100.その他の家庭用品の製造"></key>
+			<key name="102.判子/印鑑ショッピングモール"></key>
+			<key name="112.カレンダーショッピングモール"></key>
+			<key name="113.護身用品ショッピングモール"></key>
+			<key name="106.衛生用品の製造"></key>
+			<key name="114.トイレットペーパーの製造"></key>
+		</key>
+	</key>
+	<key name="103.結婚/出産/育児">
+		<key name="100.結婚情報/お見合い">
+			<key name="106.幣帛/裨益食品"></key>
+			<key name="103.ウェディングスタジオ"></key>
+			<key name="101.国際結婚"></key>
+			<key name="100.結婚情報/お見合い"></key>
+			<key name="100.結婚式場"></key>
+			<key name="101.ウェディングプランナー"></key>
+			<key name="105.結婚式の招待状"></key>
+			<key name="104.ウェディングコンサルティング"></key>
+			<key name="102.ウェディングドレス"></key>
+		</key>
+		<key name="102.育児">
+			<key name="107.幼児用品ショッピングモール"></key>
+			<key name="110.おもちゃ/玩具ショッピングモール"></key>
+			<key name="103.子供の保護/安全用品ショッピングモール"></key>
+			<key name="104.英才教育"></key>
+			<key name="100.初誕生日のお祝い"></key>
+			<key name="102.子供/幼児教育"></key>
+			<key name="109.幼稚園/保育園"></key>
+			<key name="101.ベビーシッター"></key>
+			<key name="106.幼児教育企業"></key>
+			<key name="105.幼児教育機関"></key>
+			<key name="108.幼児用品の製造"></key>
+			<key name="111.中古幼児用品ショッピングモール"></key>
+		</key>
+		<key name="103.妊娠/出産">
+			<key name="101.臍帯血"></key>
+			<key name="100.産後調理院"></key>
+			<key name="102.出産/育児情報"></key>
+		</key>
+	</key>
+	<key name="115.アパレル/ファッション">
+		<key name="105.子供服">
+			<key name="100.子供服のショッピングモール"></key>
+		</key>
+		<key name="102.名品">
+			<key name="100.名品ブランド"></key>
+			<key name="102.中古ブランド品ショッピングモール"></key>
+			<key name="101.名品ショッピングモール"></key>
+		</key>
+		<key name="110.ファッションブランド/メーカー">
+			<key name="107.スーツ衣類の製造"></key>
+			<key name="102.下着の製造"></key>
+			<key name="105.婦人服ブランド"></key>
+			<key name="109.学生服"></key>
+			<key name="101.紳士服ブランド"></key>
+			<key name="106.ベビー服ブランド"></key>
+			<key name="100.SPAブランド"></key>
+			<key name="108.カジュアルウェアブランド"></key>
+			<key name="103.靴のブランド"></key>
+			<key name="104.子供服ブランド"></key>
+		</key>
+		<key name="109.ジュエリー/貴金属">
+			<key name="101.時計のショッピングモール"></key>
+			<key name="100.貴金属のショッピングモール"></key>
+		</key>
+		<key name="104.靴/靴/運動靴">
+			<key name="100.紳士靴専門モール"></key>
+			<key name="101.婦人靴専門モール"></key>
+			<key name="102.総合靴のショッピングモール"></key>
+		</key>
+		<key name="101.紳士服">
+			<key name="100.紳士服のショッピングモール"></key>
+			<key name="101.ブランド紳士服のショッピングモール"></key>
+		</key>
+		<key name="107.マタニティードレス">
+			<key name="100.マタニティドレスのショッピングモール"></key>
+		</key>
+		<key name="103.下着ショッピングモール">
+			<key name="100.下着のショッピングモール"></key>
+		</key>
+		<key name="108.総合衣類">
+			<key name="100.SPAブランドショッピングモール"></key>
+			<key name="103.ブランド総合アパレルショッピングモール"></key>
+			<key name="106.芸能人の衣類ショッピングモール"></key>
+			<key name="101.救済のショッピングモール"></key>
+			<key name="108.カップルショッピングモール"></key>
+			<key name="105.アウトレット"></key>
+			<key name="104.ブランドジーンズのショッピングモール"></key>
+			<key name="109.ファッション/ショッピングタウン"></key>
+			<key name="107.総合アパレルショッピングモール"></key>
+			<key name="102.マルチショップ"></key>
+			<key name="110.ファッションモールリンク/検索"></key>
+		</key>
+		<key name="100.その他衣類">
+			<key name="100.革のスーツ/人工毛皮のショッピングモール"></key>
+			<key name="102.ビッグサイズ衣類のショッピングモール"></key>
+			<key name="103.韓服"></key>
+			<key name="101.団体服のショッピングモール"></key>
+		</key>
+		<key name="111.ファッション雑貨">
+			<key name="106.傘のショッピングモール"></key>
+			<key name="107.ファッションアクセサリーのショッピングモール"></key>
+			<key name="101.機能/特殊化専門モール"></key>
+			<key name="104.ライターのショッピングモール"></key>
+			<key name="103.ボタンのショッピングモール"></key>
+			<key name="105.サングラスのショッピングモール"></key>
+			<key name="102.その他のファッション雑貨のショッピングモール"></key>
+			<key name="100.バッグのショッピングモール"></key>
+		</key>
+		<key name="106.婦人服">
+			<key name="100.ブランド婦人服のショッピングモール"></key>
+			<key name="101.婦人服のショッピングモール"></key>
+		</key>
+	</key>
+	<key name="301.iOSゲーム">
+		<key name="117.クイズ"></key>
+		<key name="102.教育関連"></key>
+		<key name="101.家族"></key>
+		<key name="100.ゲーム"></key>
+		<key name="116.カジノ"></key>
+		<key name="108.シミュレーション"></key>
+		<key name="115.カード"></key>
+		<key name="118.パズル"></key>
+		<key name="110.アクション"></key>
+		<key name="103.単語"></key>
+		<key name="109.アーケード"></key>
+		<key name="107.スポーツ"></key>
+		<key name="112.音楽"></key>
+		<key name="106.ボード"></key>
+		<key name="105.ロールプレーイング"></key>
+		<key name="113.戦略"></key>
+		<key name="114.サイコロ"></key>
+		<key name="104.レーシング"></key>
+		<key name="111.アドベンチャー"></key>
+	</key>
+	<key name="117.電子/家電">
+		<key name="102.電気電子機器/部品">
+			<key name="108.電池/バッテリー"></key>
+			<key name="100.光通信部品"></key>
+			<key name="105.映像/音響機器"></key>
+			<key name="107.電子部品の製造"></key>
+			<key name="109.照明/ディスプレイの製造"></key>
+			<key name="101.その他の通信機器"></key>
+			<key name="102.モニター/パネル"></key>
+			<key name="104.放送/映像機器"></key>
+			<key name="103.半導体"></key>
+			<key name="110.カメラ/携帯電話の部品"></key>
+			<key name="106.電気/電源装置"></key>
+		</key>
+		<key name="100.家電製品ブランド">
+			<key name="100.MP3ブランド"></key>
+			<key name="104.輸入家電ブランド"></key>
+			<key name="106.ビデオカメラ/カメラブランド"></key>
+			<key name="101.生活家電"></key>
+			<key name="105.総合家電"></key>
+			<key name="102.生活家電ブランド"></key>
+			<key name="103.小型家電"></key>
+		</key>
+		<key name="103.コンピューターと周辺機器">
+			<key name="105.中古パソコンのショッピングモール"></key>
+			<key name="106.コンピューター関連のコミュニティー"></key>
+			<key name="103.サーバーモールのショッピングモール"></key>
+			<key name="102.ノートパソコンのショッピングモール"></key>
+			<key name="109.コンピューター/ハードウェア"></key>
+			<key name="107.コンピューターレンタル/レンタル"></key>
+			<key name="100.空のCDショッピングモール"></key>
+			<key name="112.ハードウェア情報"></key>
+			<key name="104.ソフトウェアショッピングモール"></key>
+			<key name="108.コンピューター維持/補修"></key>
+			<key name="110.コンピューターショッピングモール"></key>
+			<key name="101.ネットワーク関連製品のショッピングモール"></key>
+			<key name="111.コンピューター機器/周辺機器"></key>
+		</key>
+		<key name="101.家電製品ショッピング">
+			<key name="101.生活家電ショッピングモール"></key>
+			<key name="104.中古家電ショッピングモール"></key>
+			<key name="102.映像/音響機器のショッピングモール"></key>
+			<key name="105.カメラショッピングモール"></key>
+			<key name="100.MP3ショッピングモール"></key>
+			<key name="103.総合家電ショッピングモール"></key>
+		</key>
+	</key>
+	<key name="113.旅行">
+		<key name="104.旅行先/フェスティバル/イベント">
+			<key name="102.スキー場"></key>
+			<key name="103.温泉/ウォーターパーク"></key>
+			<key name="105.祭り/イベント"></key>
+			<key name="104.週末農場"></key>
+			<key name="101.遊園地/テーマパーク"></key>
+			<key name="106.ハーブ農場"></key>
+			<key name="100.観光農園/休養地"></key>
+		</key>
+		<key name="101.宿泊">
+			<key name="103.民宿/ペンション"></key>
+			<key name="107.キャンプ場"></key>
+			<key name="101.リゾート/コンドミニアム"></key>
+			<key name="100.その他の宿泊"></key>
+			<key name="108.ホテル"></key>
+			<key name="105.ユースホステル"></key>
+			<key name="102.モーテル"></key>
+			<key name="104.山荘"></key>
+			<key name="106.総合宿泊予約"></key>
+			<key name="109.ホームステイ"></key>
+		</key>
+		<key name="100.交通/航空">
+			<key name="101.レンタカー"></key>
+			<key name="103.貸切バス"></key>
+			<key name="102.旅行と交通その他"></key>
+			<key name="100.国内空港"></key>
+			<key name="106.航空機関/団体"></key>
+			<key name="108.海外の空港"></key>
+			<key name="105.航空同盟"></key>
+			<key name="107.航空情報"></key>
+			<key name="104.航空"></key>
+		</key>
+		<key name="103.旅行情報/旅行その他">
+			<key name="100.国内地域の旅行情報"></key>
+			<key name="102.パスポート/ビザ発給代行"></key>
+			<key name="109.海外旅行情報"></key>
+			<key name="108.海外観光局"></key>
+			<key name="106.総合旅行情報"></key>
+			<key name="103.旅行関連機関/団体"></key>
+			<key name="105.旅行新聞"></key>
+			<key name="104.旅行その他"></key>
+			<key name="101.その他の旅行情報"></key>
+			<key name="107.海外官庁"></key>
+		</key>
+		<key name="102.旅行代理店">
+			<key name="100.国内の旅行代理店"></key>
+			<key name="105.海外の旅行代理店"></key>
+			<key name="101.新婚旅行代理店"></key>
+			<key name="104.テーマ旅行代理店"></key>
+			<key name="102.自由旅行代理店"></key>
+			<key name="103.総合旅行代理店"></key>
+		</key>
+	</key>
+	<key name="114.オンラインコミュニティー/ブログ">
+		<key name="102.その他コミュニティー">
+			<key name="112.地域のコミュニティー"></key>
+			<key name="117.ポータル掲示板"></key>
+			<key name="108.年齢別のコミュニティー"></key>
+			<key name="115.親睦コミュニティー"></key>
+			<key name="102.軍隊のコミュニティー"></key>
+			<key name="109.医学のコミュニティー"></key>
+			<key name="104.同性愛"></key>
+			<key name="113.小学校のコミュニティー"></key>
+			<key name="107.社会のコミュニティー"></key>
+			<key name="114.就職のコミュニティー"></key>
+			<key name="110.製品レビュー/後記"></key>
+			<key name="105.合コン/恋愛"></key>
+			<key name="100.経済のコミュニティー"></key>
+			<key name="111.知識のコミュニティー"></key>
+			<key name="106.写真/カメラのコミュニティー"></key>
+			<key name="118.ポータルコミュニティー"></key>
+			<key name="103.その他のコミュニティ"></key>
+			<key name="119.海外韓国人コミュニティー"></key>
+			<key name="101.高校のコミュニティー"></key>
+			<key name="116.コミュニティーポータル"></key>
+		</key>
+		<key name="106.会社員のコミュニティー">
+			<key name="100.会社員のコミュニティー"></key>
+		</key>
+		<key name="100.P2P/共有">
+			<key name="100.P2P"></key>
+			<key name="104.トレンド情報"></key>
+			<key name="101.ドラマのコミュニティー"></key>
+			<key name="102.コンテンツリンク/検索"></key>
+			<key name="103.コンテンツポータル"></key>
+		</key>
+		<key name="101.ゲームコミュニティー">
+			<key name="100.ゲームのコミュニティー"></key>
+		</key>
+		<key name="105.女性ポータル/コミュニティー">
+			<key name="101.ポータル女性"></key>
+			<key name="100.女性のコミュニティーポータル"></key>
+		</key>
+		<key name="103.ブログ/ SNS">
+			<key name="106.ソーシャルハブ"></key>
+			<key name="105.文化ブログ"></key>
+			<key name="109.Twitter"></key>
+			<key name="104.マイクロブログ"></key>
+			<key name="110.ポータルブログ"></key>
+			<key name="102.公共ブログ"></key>
+			<key name="103.企業ブログ"></key>
+			<key name="108.総合ブログ"></key>
+			<key name="100.SNS"></key>
+			<key name="107.マスコミのブログ"></key>
+			<key name="101.個人ブログ"></key>
+		</key>
+		<key name="104.子供ポータル/コミュニティー">
+			<key name="100.子供のコミュニティー"></key>
+			<key name="101.ポータル子供"></key>
+		</key>
+	</key>
+	<key name="108.美容">
+		<key name="101.化粧品">
+			<key name="106.化粧品ブランドショッピングモール"></key>
+			<key name="103.漢方化粧品ショッピングモール"></key>
+			<key name="104.香水のショッピングモール"></key>
+			<key name="109.化粧品ショッピングモール"></key>
+			<key name="107.化粧品ブランドメーカー"></key>
+			<key name="100.輸入化粧品ショッピングモール"></key>
+			<key name="110.化粧品の製造"></key>
+			<key name="108.化粧品サンプルのショッピングモール"></key>
+			<key name="102.自然化粧品ショッピングモール"></key>
+			<key name="101.総合化粧品ショッピングモール"></key>
+			<key name="105.化粧/メイクサービス"></key>
+		</key>
+		<key name="100.美容と体型管理/用品">
+			<key name="114.肥満クリニック"></key>
+			<key name="109.美容機器のショッピングモール"></key>
+			<key name="104.瞑想/ヨガ"></key>
+			<key name="107.タトゥー"></key>
+			<key name="103.断食クリニック"></key>
+			<key name="106.浴場/サウナ"></key>
+			<key name="118.ヘア/美容ショッピングモール"></key>
+			<key name="120.ヘルス/エアロビクス"></key>
+			<key name="119.ヘアケア用品の製造"></key>
+			<key name="111.ボディケア/バス用品製造"></key>
+			<key name="115.スパ"></key>
+			<key name="101.ダイエットショッピングモール"></key>
+			<key name="116.体型/皮膚管理"></key>
+			<key name="110.美容室"></key>
+			<key name="113.石鹸のショッピングモール"></key>
+			<key name="105.ヘアケア"></key>
+			<key name="108.美容機器情報/製造"></key>
+			<key name="100.ネイルアート"></key>
+			<key name="112.足のケア"></key>
+			<key name="102.ダイエット情報"></key>
+			<key name="117.体型矯正"></key>
+		</key>
+	</key>
+	<key name="102.健康">
+		<key name="109.皮膚科">
+			<key name="100.皮膚科"></key>
+		</key>
+		<key name="101.健康補助食品">
+			<key name="100.健康関連のショッピングモール"></key>
+			<key name="101.ヘルスサプリメントショッピングモール"></key>
+		</key>
+		<key name="110.韓方医院/韓方病院">
+			<key name="100.韓方医院/韓方病院"></key>
+		</key>
+		<key name="105.整形外科">
+			<key name="100.整形外科"></key>
+		</key>
+		<key name="107.医薬品/医療機器/医療用品">
+			<key name="103.薬学機関/団体"></key>
+			<key name="104.医療機器ショッピングモール"></key>
+			<key name="100.メガネ/コンタクトレンズ"></key>
+			<key name="106.医薬の製造"></key>
+			<key name="102.薬学"></key>
+			<key name="101.薬局"></key>
+			<key name="105.医療機器の製造"></key>
+		</key>
+		<key name="103.泌尿器科">
+			<key name="100.泌尿器科"></key>
+		</key>
+		<key name="106.眼科">
+			<key name="100.眼科"></key>
+		</key>
+		<key name="104.産婦人科">
+			<key name="100.産婦人科"></key>
+		</key>
+		<key name="100.健康/医学">
+			<key name="100.健康/医学関連団体"></key>
+			<key name="101.健康/医学その他"></key>
+			<key name="106.医学新聞"></key>
+			<key name="104.禁煙"></key>
+			<key name="108.歯医学"></key>
+			<key name="105.代替医療"></key>
+			<key name="109.漢方医学"></key>
+			<key name="102.健康/医学ポータル"></key>
+			<key name="107.医学研究"></key>
+			<key name="103.健康情報"></key>
+		</key>
+		<key name="102.その他の病気/医院">
+			<key name="107.神経精神科"></key>
+			<key name="109.療養病院"></key>
+			<key name="102.大腸/肛門科"></key>
+			<key name="110.耳鼻咽喉科"></key>
+			<key name="114.体形矯正クリニック"></key>
+			<key name="106.神経外科"></key>
+			<key name="105.小児科"></key>
+			<key name="101.内科"></key>
+			<key name="111.リハビリテーション科"></key>
+			<key name="108.外科"></key>
+			<key name="112.整形外科"></key>
+			<key name="104.放射線科"></key>
+			<key name="113.総合病院"></key>
+			<key name="100.国立病院"></key>
+			<key name="103.大学病院"></key>
+		</key>
+		<key name="108.歯科">
+			<key name="100.歯科"></key>
+		</key>
+	</key>
+	<key name="112.食/飲料">
+		<key name="101.食品ブランド/メーカー">
+			<key name="104.ベーカリー/製菓店"></key>
+			<key name="108.飲料の製造"></key>
+			<key name="101.お菓子/スナックブランド"></key>
+			<key name="109.伝統食品の製造"></key>
+			<key name="100.お菓子/氷菓の製造"></key>
+			<key name="103.ビールのブランド"></key>
+			<key name="106.牛乳/乳製品の製造"></key>
+			<key name="110.酒類の製造/流通"></key>
+			<key name="102.タバコの製造"></key>
+			<key name="105.食品の製造"></key>
+			<key name="111.クルミ菓子ブランド"></key>
+			<key name="107.飲料ブランド"></key>
+		</key>
+		<key name="102.料理/フード/食品情報">
+			<key name="101.食品情報"></key>
+			<key name="100.酒/酒類情報"></key>
+			<key name="102.料理/グルメ情報"></key>
+		</key>
+		<key name="100.食/飲料ショッピング">
+			<key name="105.食品ショッピングモール"></key>
+			<key name="109.畜産食品ショッピングモール"></key>
+			<key name="104.水産物ショッピングモール"></key>
+			<key name="101.キムチショッピングモール"></key>
+			<key name="100.フルーツショッピングモール"></key>
+			<key name="103.生食ショッピングモール"></key>
+			<key name="106.オーガニックのショッピングモール"></key>
+			<key name="107.飲料ショッピングモール"></key>
+			<key name="102.出前食品ショッピングモール"></key>
+			<key name="110.ケーキショッピングモール"></key>
+			<key name="108.インターネットスーパーマーケット"></key>
+			<key name="111.特産食品ショッピングモール"></key>
+		</key>
+		<key name="103.飲食店/レストラン">
+			<key name="103.コーヒー専門店"></key>
+			<key name="107.ホープ専門店"></key>
+			<key name="105.ピザ/スパゲッティ"></key>
+			<key name="100.給食/ケータリング"></key>
+			<key name="104.ファミリーレストラン"></key>
+			<key name="101.カフェ/レストラン"></key>
+			<key name="106.韓国料理専門店"></key>
+			<key name="102.粉食専門店"></key>
+		</key>
+	</key>
+	<key name="107.文化/芸術/娯楽">
+		<key name="111.音楽/動画/マルチメディア">
+			<key name="102.バックグラウンドミュージック"></key>
+			<key name="103.写真/画像"></key>
+			<key name="107.アルバム企画/制作"></key>
+			<key name="116.ポータル音楽"></key>
+			<key name="112.インターネットカラオケ"></key>
+			<key name="115.ポータル動画"></key>
+			<key name="110.音楽放送"></key>
+			<key name="114.クラシック"></key>
+			<key name="108.音楽鑑賞"></key>
+			<key name="100.歌詞"></key>
+			<key name="113.伝統音楽"></key>
+			<key name="111.音楽情報"></key>
+			<key name="109.音楽その他"></key>
+			<key name="106.映像音響機器情報"></key>
+			<key name="104.楽譜"></key>
+			<key name="101.動画/ビデオ"></key>
+			<key name="105.アンダーグラウンドミュージック/ロック"></key>
+		</key>
+		<key name="110.ユーモア/おもしろさ">
+			<key name="100.ユーモア/おもしろさ"></key>
+		</key>
+		<key name="105.漫画/アニメ">
+			<key name="101.漫画家"></key>
+			<key name="103.アニメ作品"></key>
+			<key name="106.キャラクター"></key>
+			<key name="107.コスプレ"></key>
+			<key name="100.企画/制作会社"></key>
+			<key name="104.エッセイトゥーン漫画日記"></key>
+			<key name="105.インターネット漫画喫茶"></key>
+			<key name="108.ポータル漫画"></key>
+			<key name="102.漫画情報"></key>
+		</key>
+		<key name="100.ゲーム">
+			<key name="116.コンピューターゲームの開発"></key>
+			<key name="114.アイテム取引"></key>
+			<key name="106.ゲームショッピングモール"></key>
+			<key name="100.PCゲーム"></key>
+			<key name="110.ギルド/同好会"></key>
+			<key name="105.ゲーム放送"></key>
+			<key name="101.PC部屋/インターネットカフェ"></key>
+			<key name="103.ゲームその他"></key>
+			<key name="109.ゲーム情報/コミュニティー"></key>
+			<key name="104.ゲーム大会/リーグ"></key>
+			<key name="117.プロゲーム団"></key>
+			<key name="112.モバイルゲーム開発"></key>
+			<key name="111.モバイルゲーム"></key>
+			<key name="113.ビデオゲーム"></key>
+			<key name="107.ゲームインターネット放送"></key>
+			<key name="108.ゲーム専門誌/ウェブマガジン"></key>
+			<key name="115.オンラインゲーム"></key>
+			<key name="102.ゲーム機関/団体"></key>
+		</key>
+		<key name="109.運勢/占い">
+			<key name="101.運勢/四柱/相性"></key>
+			<key name="103.ポータル占い"></key>
+			<key name="100.霊媒師"></key>
+			<key name="102.タロットカード"></key>
+		</key>
+		<key name="108.映画">
+			<key name="103.ビデオ/ DVD製作"></key>
+			<key name="100.TVプロダクション"></key>
+			<key name="102.ビデオ/ DVD情報"></key>
+			<key name="113.映画評/レビュー"></key>
+			<key name="101.劇場"></key>
+			<key name="116.ポータル映画"></key>
+			<key name="108.映画専門誌"></key>
+			<key name="115.自動車劇場"></key>
+			<key name="111.映画製作会社（国内）"></key>
+			<key name="109.映画情報"></key>
+			<key name="112.映画製作会社（海外）"></key>
+			<key name="114.インターネット映画館"></key>
+			<key name="107.映画作品"></key>
+			<key name="110.映画祭"></key>
+			<key name="106.映画音楽"></key>
+			<key name="104.映画機関/団体"></key>
+			<key name="105.映画配給会社"></key>
+		</key>
+		<key name="104.ロト/宝くじ">
+			<key name="102.オンライン宝くじ"></key>
+			<key name="101.スポーツベッティング"></key>
+			<key name="100.ロト情報"></key>
+		</key>
+		<key name="103.書籍/音楽/楽器">
+			<key name="108.中古書籍ショッピングモール"></key>
+			<key name="101.書籍の価格比較"></key>
+			<key name="100.DVD販売/レンタル"></key>
+			<key name="103.幼児本のショッピングモール"></key>
+			<key name="106.電子書籍（eBook）"></key>
+			<key name="107.総合書籍ショッピングモール"></key>
+			<key name="102.楽器ショッピングモール"></key>
+			<key name="105.専門書籍ショッピングモール"></key>
+			<key name="104.レコード/ CDショッピングモール"></key>
+		</key>
+		<key name="106.アダルトサイト（追加）">
+			<key name="102.アダルト情報"></key>
+			<key name="101.アダルト放送"></key>
+			<key name="100.アダルト漫画"></key>
+		</key>
+		<key name="101.公演/芸術/観覧チケット">
+			<key name="107.美術館"></key>
+			<key name="112.伝統芸術"></key>
+			<key name="105.ミュージカル/パフォーマンス"></key>
+			<key name="102.公演情報"></key>
+			<key name="100.ギャラリー/展示館"></key>
+			<key name="108.写真芸術"></key>
+			<key name="106.美術"></key>
+			<key name="110.芸術団体"></key>
+			<key name="113.チケット予約"></key>
+			<key name="111.芸術センター"></key>
+			<key name="109.演劇/劇団"></key>
+			<key name="101.公演場"></key>
+			<key name="104.舞踊/ダンス"></key>
+			<key name="103.デザイン"></key>
+		</key>
+		<key name="102.その他　文化/芸術">
+			<key name="108.美術品の競売"></key>
+			<key name="111.伝統文化"></key>
+			<key name="104.文学作品"></key>
+			<key name="106.文化交流"></key>
+			<key name="105.文学ポータル"></key>
+			<key name="101.記念館"></key>
+			<key name="110.作家"></key>
+			<key name="103.文学関連機関/団体"></key>
+			<key name="109.博物館"></key>
+			<key name="107.文化財"></key>
+			<key name="102.図書館"></key>
+			<key name="100.科学館"></key>
+		</key>
+		<key name="107.芸能/スター">
+			<key name="100.歌手"></key>
+			<key name="103.芸能企画/マネジメント"></key>
+			<key name="105.ファンクラブ"></key>
+			<key name="102.俳優/タレント"></key>
+			<key name="104.芸能人/スター"></key>
+			<key name="101.モデルエージェンシー"></key>
+		</key>
+	</key>
+	<key name="116.自動車">
+		<key name="100.自動車ブランド/メーカー">
+			<key name="100.自動車ブランド"></key>
+			<key name="101.自動車製造"></key>
+		</key>
+		<key name="102.自動車情報">
+			<key name="100.PMP/ナビゲーションコミュニティー"></key>
+			<key name="101.自動車のコミュニティー"></key>
+			<key name="102.自動車情報"></key>
+		</key>
+		<key name="101.自動車用品/部品/整備">
+			<key name="102.自動車部品の製造"></key>
+			<key name="100.ナビゲーション/ GPS"></key>
+			<key name="103.自動車用品のショッピングモール"></key>
+			<key name="101.ナビゲーション/ GPSのショッピングモール"></key>
+			<key name="104.自動車整備"></key>
+			<key name="106.ホイールタイヤのショッピングモール"></key>
+			<key name="105.カーオーディオのショッピングモール"></key>
+		</key>
+		<key name="103.自動車販売">
+			<key name="100.自動車の競売"></key>
+			<key name="101.自動車のショッピングモール"></key>
+			<key name="102.自動車販売/営業所"></key>
+			<key name="103.中古車ショッピングモール"></key>
+			<key name="104.トラックのショッピングモール"></key>
+		</key>
+	</key>
+	<key name="100.IT/通信">
+		<key name="103.ソフトウェア/プログラム/ソリューション/セキュリティ">
+			<key name="123.サイト構築ソリューション"></key>
+			<key name="122.ビーズプラットフォーム"></key>
+			<key name="116.メールソリューション"></key>
+			<key name="107.OS関連の開発"></key>
+			<key name="119.テキストエディター"></key>
+			<key name="105.Graphic関連の開発"></key>
+			<key name="100.CRM/販売管理"></key>
+			<key name="115.マルチメディアソリューション"></key>
+			<key name="128.ショッピングモールソリューション"></key>
+			<key name="106.LOG/ CRMソリューション"></key>
+			<key name="137.販売/在庫管理ソリューション"></key>
+			<key name="120.ウイルスワクチンの開発"></key>
+			<key name="124.税務/会計ソリューション"></key>
+			<key name="117.モバイルソリューションの開発"></key>
+			<key name="127.ショッピングモールの構築"></key>
+			<key name="126.ショッピングモール/販売管理"></key>
+			<key name="112.その他のWebソリューションの開発"></key>
+			<key name="129.オペレーティングシステム（OS）"></key>
+			<key name="121.セキュリティ/暗号化"></key>
+			<key name="110.広告/マーケティング管理"></key>
+			<key name="114.ログ分析/カウンター"></key>
+			<key name="118.無線インターネットソリューションの開発"></key>
+			<key name="134.電子決済ソリューション"></key>
+			<key name="125.ソフトウェア情報"></key>
+			<key name="113.データベースソリューション"></key>
+			<key name="103.ERP/グループウェアの開発"></key>
+			<key name="131.Webアプリケーションの開発/供給"></key>
+			<key name="101.DB関連の開発"></key>
+			<key name="133.アプリケーションの開発/供給"></key>
+			<key name="104.FTP"></key>
+			<key name="138.ホームページ制作"></key>
+			<key name="132.ウェブエージェンシー"></key>
+			<key name="136.タイピングの練習"></key>
+			<key name="109.検索エンジンソリューション"></key>
+			<key name="102.ERP/ SCM"></key>
+			<key name="111.グループウェア/業務管理"></key>
+			<key name="130.遠隔/画像/教育ソリューション"></key>
+			<key name="108.SI/ SM"></key>
+			<key name="135.電子税金計算書"></key>
+		</key>
+		<key name="106.モバイル・コミュニケーション/超高速インターネット/携帯電話">
+			<key name="108.携帯電話会社"></key>
+			<key name="111.携帯電話コミュニティー"></key>
+			<key name="109.中古携帯電話ショッピングモール"></key>
+			<key name="112.携帯電話/モバイル端末機"></key>
+			<key name="107.携帯電話ブランド"></key>
+			<key name="102.国際電話/プリペイドカード"></key>
+			<key name="105.スマートフォン/ PDAコミュニティー"></key>
+			<key name="110.超高速インターネット加入センター"></key>
+			<key name="104.スマートフォン/ PDA"></key>
+			<key name="100.ISP"></key>
+			<key name="113.携帯電話ブランド"></key>
+			<key name="106.市内/市外/携帯電話"></key>
+			<key name="114.携帯電話ショッピングモール"></key>
+			<key name="103.ローミングサービス"></key>
+			<key name="101.顧客支援センター"></key>
+		</key>
+		<key name="104.Webサービス/ Webオーサリングツール">
+			<key name="105.ウェブデザイン/グラフィック"></key>
+			<key name="112.プログラミング"></key>
+			<key name="108.インターネットFAX"></key>
+			<key name="103.ブックマーク共有"></key>
+			<key name="107.画像/クリップアート"></key>
+			<key name="111.ポータル地図/地域情報"></key>
+			<key name="110.カレンダー/スケジュール管理"></key>
+			<key name="104.ソーシャルアプリ/ウィジェット"></key>
+			<key name="101.家計簿"></key>
+			<key name="106.ウェブストレージ"></key>
+			<key name="100.RSSリーダー"></key>
+			<key name="102.無料掲示板"></key>
+			<key name="109.地図"></key>
+		</key>
+		<key name="100.ネットワーク/情報通信サービス">
+			<key name="103.ネットワーク構築/コンサルティング"></key>
+			<key name="104.ネットワーク技術/機器の開発"></key>
+			<key name="105.ネットワーク機器の流通/供給"></key>
+			<key name="107.インターネットサービスプロバイダー"></key>
+			<key name="106.有線および無線通信機器"></key>
+			<key name="102.その他の情報通信サービス"></key>
+			<key name="108.通信サービスプロバイダー"></key>
+			<key name="100.CDNソリューションの構築/サービス"></key>
+			<key name="101.IDC"></key>
+		</key>
+		<key name="101.ドメイン/ホスティング">
+			<key name="103.ウェブホスティング"></key>
+			<key name="101.ドメイン登録代行"></key>
+			<key name="102.ドメインフォワーディング"></key>
+			<key name="100.URL簡略化"></key>
+			<key name="104.ホームページアカウント"></key>
+		</key>
+		<key name="107.インターネットポータル/インターネット検索">
+			<key name="103.総合ポータル"></key>
+			<key name="100.検索エンジン"></key>
+			<key name="102.リンク集"></key>
+			<key name="104.ポータル検索"></key>
+			<key name="101.検索ツール"></key>
+			<key name="105.ポータル知識検索"></key>
+			<key name="106.海外ポータル"></key>
+		</key>
+		<key name="105.ユーティリティ/アーカイブ">
+			<key name="103.資料室"></key>
+			<key name="104.フォント/書体"></key>
+			<key name="100.デスクトップガジェット"></key>
+			<key name="101.初期画面"></key>
+			<key name="102.インターネット/コンピュータ関連団体"></key>
+		</key>
+		<key name="102.モバイルコンテンツ">
+			<key name="100.SMS/テキストメッセージ"></key>
+			<key name="103.着信音/連結音"></key>
+			<key name="102.モバイルアプリ/レビュー"></key>
+			<key name="101.その他のモバイルコンテンツ"></key>
+			<key name="105.ポータルモバイル"></key>
+			<key name="104.アプリストア"></key>
+		</key>
+		<key name="108.チャット/メール/メッセンジャー">
+			<key name="101.メールアカウント"></key>
+			<key name="102.インターネットカード"></key>
+			<key name="103.インターネットフォン"></key>
+			<key name="104.チャット/会話"></key>
+			<key name="100.メッセンジャー"></key>
+		</key>
+	</key>
+	<key name="900.Custom">
+		<key name="100.会社員"></key>
+	</key>
+	<key name="201.アンドロイドゲーム">
+		<key name="104.ボード"></key>
+		<key name="100.ゲーム"></key>
+		<key name="116.クイズ"></key>
+		<key name="102.単語"></key>
+		<key name="108.アクション"></key>
+		<key name="105.スポーツ"></key>
+		<key name="113.カード"></key>
+		<key name="112.戦略"></key>
+		<key name="109.アドベンチャー"></key>
+		<key name="101.教育"></key>
+		<key name="111.カーレース"></key>
+		<key name="103.ロールプレーイング"></key>
+		<key name="117.パズル"></key>
+		<key name="115.カジュアルゲーム"></key>
+		<key name="114.カジノ"></key>
+		<key name="106.シミュレーション"></key>
+		<key name="110.音楽"></key>
+		<key name="107.アーケード"></key>
+	</key>
+	<key name="300.iOSアプリ">
+		<key name="111.ソーシャルネットワーキング"></key>
+		<key name="103.天気"></key>
+		<key name="116.エンターテイメント"></key>
+		<key name="107.ライフスタイル"></key>
+		<key name="123.参考"></key>
+		<key name="114.スポーツ"></key>
+		<key name="105.ニュース"></key>
+		<key name="120.音楽"></key>
+		<key name="104.ナビゲーション"></key>
+		<key name="100.健康＆フィットネス"></key>
+		<key name="121.医学"></key>
+		<key name="106.図書"></key>
+		<key name="108.ビジネス"></key>
+		<key name="118.ユーティリティー"></key>
+		<key name="102.金融"></key>
+		<key name="112.ショッピング"></key>
+		<key name="115.子供"></key>
+		<key name="113.ステッカー"></key>
+		<key name="109.写真＆ビデオ"></key>
+		<key name="124.カタログ"></key>
+		<key name="101.教育"></key>
+		<key name="110.生産性"></key>
+		<key name="122.雑誌＆新聞"></key>
+		<key name="117.旅行"></key>
+		<key name="119.食品＆飲料"></key>
+	</key>
+	<key name="109.ビジネス/産業">
+		<key name="106.インターネット/モバイルビジネス">
+			<key name="100.サイトの仲介/売買"></key>
+			<key name="101.ウェブサイトの分析/評価"></key>
+			<key name="102.インターネット広告代理店/メディアラボ"></key>
+			<key name="104.インターネットマーケティング"></key>
+			<key name="103.インターネットリサーチ/統計"></key>
+		</key>
+		<key name="101.広告/マーケティング">
+			<key name="104.企業PR/プロモーション代行"></key>
+			<key name="110.提携マーケティング"></key>
+			<key name="102.広告代理店"></key>
+			<key name="105.ネットワークマーケティング"></key>
+			<key name="109.屋外広告"></key>
+			<key name="100.CI/ロゴデザイン"></key>
+			<key name="103.広告デザイン会社"></key>
+			<key name="107.マーケティング/広告情報"></key>
+			<key name="106.リサーチ/統計"></key>
+			<key name="101.広告その他"></key>
+			<key name="108.ブランド/ネーミング"></key>
+			<key name="111.テレマーケティング"></key>
+		</key>
+		<key name="104.その他　ビジネス/産業">
+			<key name="101.レザー/皮革の製造"></key>
+			<key name="135.電気/発電"></key>
+			<key name="120.肥料/農薬の製造"></key>
+			<key name="134.電気/ガス/石油流通"></key>
+			<key name="125.繊維生地の製造/加工"></key>
+			<key name="108.貴金属/宝石流通"></key>
+			<key name="116.貿易取引/代行/仲介"></key>
+			<key name="115.代替エネルギー"></key>
+			<key name="114.農林水産業/加工業"></key>
+			<key name="123.石油化学"></key>
+			<key name="142.ペイント/塗料"></key>
+			<key name="102.建設/建築情報"></key>
+			<key name="103.建設/土木資材"></key>
+			<key name="111.その他の製造"></key>
+			<key name="143.プレゼンテーション"></key>
+			<key name="107.ゴム/合成樹脂"></key>
+			<key name="144.化学薬品"></key>
+			<key name="132.アパレルの貿易会社"></key>
+			<key name="100.ガス/石油/石炭"></key>
+			<key name="105.建築/インテリア資材"></key>
+			<key name="117.貿易機関/団体"></key>
+			<key name="106.建築士事務所"></key>
+			<key name="141.通訳/翻訳"></key>
+			<key name="128.食品の貿易会社"></key>
+			<key name="129.溶接"></key>
+			<key name="110.機械の貿易会社"></key>
+			<key name="113.冷暖房/換気（HVAC）"></key>
+			<key name="145.化学貿易会社"></key>
+			<key name="122.書式/フォーム"></key>
+			<key name="112.その他の化学製品"></key>
+			<key name="137.総合商社"></key>
+			<key name="140.コンピュータ自修"></key>
+			<key name="130.ガラス"></key>
+			<key name="139.中小ベンチャー機関/団体"></key>
+			<key name="119.半導体の貿易会社"></key>
+			<key name="131.流通/販売業その他"></key>
+			<key name="127.税理士事務所"></key>
+			<key name="126.税務/会計団体"></key>
+			<key name="124.繊維の貿易会社"></key>
+			<key name="138.総合化学"></key>
+			<key name="121.生活用品の貿易会社"></key>
+			<key name="136.電気/電子の貿易会社"></key>
+			<key name="104.建設会社"></key>
+			<key name="118.貿易情報"></key>
+			<key name="109.金属"></key>
+			<key name="133.自動車の貿易会社"></key>
+		</key>
+		<key name="108.コンサルティング">
+			<key name="102.企業買収/合併コンサルティング"></key>
+			<key name="103.マーケティングコンサルティング"></key>
+			<key name="104.人事管理コンサルティング"></key>
+			<key name="101.経営コンサルティング"></key>
+			<key name="100.建設コンサルティング"></key>
+		</key>
+		<key name="103.企業/経済団体/経済情報">
+			<key name="100.経済関連団体/経済情報"></key>
+			<key name="101.経済研究所"></key>
+			<key name="103.大企業/グループ会社"></key>
+			<key name="102.経済情報"></key>
+		</key>
+		<key name="102.機械/産業製品">
+			<key name="102.その他の産業製品"></key>
+			<key name="100.検査/測定機器"></key>
+			<key name="111.金物/工具のショッピングモール"></key>
+			<key name="107.電線/ケーブル"></key>
+			<key name="109.重工業/設備"></key>
+			<key name="108.電子部品のショッピングモール"></key>
+			<key name="110.重機/特殊車"></key>
+			<key name="101.工具/ベアリング"></key>
+			<key name="106.自動販売機のショッピングモール"></key>
+			<key name="105.エンジニアリング"></key>
+			<key name="103.産業機械/装備"></key>
+			<key name="104.素材/材料"></key>
+		</key>
+		<key name="107.創業/フランチャイズ">
+			<key name="101.無店舗創業"></key>
+			<key name="108.酒類フランチャイズ"></key>
+			<key name="111.コーヒー/飲料フランチャイズ"></key>
+			<key name="105.アイスクリームフランチャイズ"></key>
+			<key name="100.多段階販売"></key>
+			<key name="103.サービスフランチャイズ"></key>
+			<key name="107.レストランフランチャイズ"></key>
+			<key name="109.創業情報"></key>
+			<key name="104.ソーホー"></key>
+			<key name="112.ファーストフードフランチャイズ"></key>
+			<key name="110.チキンフランチャイズ"></key>
+			<key name="106.娯楽フランチャイズ"></key>
+			<key name="102.副業"></key>
+		</key>
+		<key name="100.B2B">
+			<key name="106.食品B2B"></key>
+			<key name="107.電気電子B2B"></key>
+			<key name="100.B2B仲介/保証"></key>
+			<key name="110.化学B2B"></key>
+			<key name="105.繊維/ファッションB2B"></key>
+			<key name="109.コンピューターB2B"></key>
+			<key name="102.建設B2B"></key>
+			<key name="104.企業統合購買システム"></key>
+			<key name="103.機械/装置B2B"></key>
+			<key name="108.総合B2B"></key>
+			<key name="101.MRO B2B"></key>
+		</key>
+		<key name="105.印刷/文具/事務用品">
+			<key name="112.トロフィー/メダルのショッピングモール"></key>
+			<key name="100.段ボールの製造"></key>
+			<key name="114.包装/箱"></key>
+			<key name="108.印刷用紙の製造"></key>
+			<key name="103.事務機器"></key>
+			<key name="105.ショッピングバッグ/袋の製造"></key>
+			<key name="101.名刺"></key>
+			<key name="113.販促物/記念品のショッピングモール"></key>
+			<key name="104.事務用品のショッピングモール"></key>
+			<key name="111.出版社"></key>
+			<key name="102.文房具/事務用品"></key>
+			<key name="106.食品用紙/産業用紙の製造"></key>
+			<key name="109.製紙/パルプの製造"></key>
+			<key name="107.印刷/製本"></key>
+			<key name="110.紙コップの製造"></key>
+		</key>
+	</key>
+	<key name="104.教育">
+		<key name="104.外国語/留学/研修">
+			<key name="107.漢字"></key>
+			<key name="105.電話/ビデオ英語"></key>
+			<key name="104.日本語"></key>
+			<key name="102.外国語"></key>
+			<key name="101.英語"></key>
+			<key name="106.中国語"></key>
+			<key name="100.語学教育会社"></key>
+			<key name="103.留学/語学研修"></key>
+		</key>
+		<key name="102.技術/資格教育">
+			<key name="112.運転免許学院"></key>
+			<key name="103.その他の専門分野の教育"></key>
+			<key name="111.料理/製菓/製パン学院"></key>
+			<key name="110.芸能/演技学院"></key>
+			<key name="116.コンピュータ/ IT教育"></key>
+			<key name="100.建築/グラフィック学院"></key>
+			<key name="117.学院情報"></key>
+			<key name="101.国費支援塾情報"></key>
+			<key name="109.試験/資格教育（総合）"></key>
+			<key name="114.音楽学院"></key>
+			<key name="102.金融/保険教育"></key>
+			<key name="107.不動産/住宅教育"></key>
+			<key name="104.デザイン学院"></key>
+			<key name="113.Webデザイン専門学院"></key>
+			<key name="105.美術学院"></key>
+			<key name="108.試験/資格教育（単科）"></key>
+			<key name="115.総合成人教育"></key>
+			<key name="106.美容学院"></key>
+		</key>
+		<key name="107.単位銀行/職業専門学校/生涯教育">
+			<key name="100.職業専門学校"></key>
+			<key name="101.単位銀行制/生涯教育"></key>
+		</key>
+		<key name="105.電子図書館/学術情報/辞典">
+			<key name="118.原子力工学"></key>
+			<key name="115.言語学"></key>
+			<key name="114.心理学"></key>
+			<key name="107.その他の自然科学"></key>
+			<key name="125.天文学"></key>
+			<key name="122.政治/行政学"></key>
+			<key name="106.その他の人文科学"></key>
+			<key name="103.科学関連協会"></key>
+			<key name="119.電子/電気工学"></key>
+			<key name="117.歴史学"></key>
+			<key name="112.数学"></key>
+			<key name="124.地理学"></key>
+			<key name="121.情報通信工学"></key>
+			<key name="104.基礎自然科学"></key>
+			<key name="120.電子図書館"></key>
+			<key name="113.新聞放送学"></key>
+			<key name="101.経営/経済学"></key>
+			<key name="100.建築/土木工学"></key>
+			<key name="128.学術情報/ DB検索"></key>
+			<key name="109.法学"></key>
+			<key name="108.農学"></key>
+			<key name="126.哲学"></key>
+			<key name="111.社会学"></key>
+			<key name="123.宗教学"></key>
+			<key name="116.エネルギー関連団体"></key>
+			<key name="127.ポータル辞典"></key>
+			<key name="102.工学"></key>
+			<key name="110.辞典"></key>
+			<key name="105.その他の社会科学"></key>
+		</key>
+		<key name="106.初等中等教育/就学能力">
+			<key name="114.私立高校/国際高校"></key>
+			<key name="110.言語/論述学院"></key>
+			<key name="103.大学入試情報/ガイド"></key>
+			<key name="115.専門高校"></key>
+			<key name="111.芸術・体育高校"></key>
+			<key name="116.総合学生教育"></key>
+			<key name="108.宿題/内申"></key>
+			<key name="101.科学高校"></key>
+			<key name="118.中学校"></key>
+			<key name="113.一般高校"></key>
+			<key name="121.特別目的高校入試"></key>
+			<key name="102.寄宿塾"></key>
+			<key name="100.課外"></key>
+			<key name="106.修学能力試験/大学入試"></key>
+			<key name="120.小学校"></key>
+			<key name="105.サイバー家庭学習"></key>
+			<key name="109.言語/論述専門教育"></key>
+			<key name="112.外国語高校"></key>
+			<key name="123.特殊教育機関/団体"></key>
+			<key name="104.美術治療"></key>
+			<key name="122.特性化高校"></key>
+			<key name="107.数学専門教育"></key>
+			<key name="124.特殊学校"></key>
+			<key name="119.初等教育"></key>
+			<key name="117.中等教育"></key>
+		</key>
+		<key name="100.告示/公務員学院">
+			<key name="100.検定試験教育"></key>
+			<key name="102.教員任用試験専門"></key>
+			<key name="101.試験/資格塾"></key>
+		</key>
+		<key name="103.大学/大学/編入">
+			<key name="114.専門大学"></key>
+			<key name="106.技能大学"></key>
+			<key name="107.論文/レポート"></key>
+			<key name="105.国内総合大学"></key>
+			<key name="103.工業大学"></key>
+			<key name="100.DEET/ MEET学院"></key>
+			<key name="115.情報大学"></key>
+			<key name="104.科学大学"></key>
+			<key name="111.サイバー大学"></key>
+			<key name="109.大学院"></key>
+			<key name="108.大学/大学コミュニティー"></key>
+			<key name="112.神学大学"></key>
+			<key name="113.入試/編入"></key>
+			<key name="110.仕官学校"></key>
+			<key name="102.看護/保険大学"></key>
+			<key name="101.LEET学院"></key>
+			<key name="116.海外総合大学"></key>
+		</key>
+		<key name="101.教育その他">
+			<key name="113.代案学校"></key>
+			<key name="102.教員団体/集まり"></key>
+			<key name="120.奨学財団"></key>
+			<key name="114.性に関する相談"></key>
+			<key name="112.その他の塾/教育"></key>
+			<key name="100.競技大会"></key>
+			<key name="110.その他の教育機関"></key>
+			<key name="118.研究所"></key>
+			<key name="106.教育者"></key>
+			<key name="103.教育関連団体"></key>
+			<key name="111.その他の塾"></key>
+			<key name="101.教授/教科情報"></key>
+			<key name="115.成人/専門教育企業"></key>
+			<key name="104.教育関連企業"></key>
+			<key name="117.試験/資格"></key>
+			<key name="109.企業/職務教育"></key>
+			<key name="108.教材/教具ショッピングモール"></key>
+			<key name="119.研修院"></key>
+			<key name="116.市道教育庁"></key>
+			<key name="105.教育機材製造メーカー"></key>
+			<key name="107.教育支援庁"></key>
+			<key name="121.進路相談"></key>
+		</key>
+	</key>
+	<key name="118.政治/行政">
+		<key name="100.法/法律">
+			<key name="102.法律関連協会/団体"></key>
+			<key name="101.法/法律情報"></key>
+			<key name="100.労務法人"></key>
+			<key name="104.特許/知的財産権"></key>
+			<key name="103.法律事務所"></key>
+		</key>
+		<key name="101.外国政府/外交">
+			<key name="101.その他圏域の国家機関"></key>
+			<key name="103.アジアの国家機関"></key>
+			<key name="100.国際機構"></key>
+			<key name="105.駐韓外交公館"></key>
+			<key name="102.米州権の国家機関"></key>
+			<key name="104.在外公館"></key>
+		</key>
+		<key name="105.地方自治団体">
+			<key name="103.基礎議会"></key>
+			<key name="105.地方の苦情/税務"></key>
+			<key name="100.広域団体"></key>
+			<key name="101.広域議会"></key>
+			<key name="102.基礎団体"></key>
+			<key name="104.住民センター"></key>
+		</key>
+		<key name="106.行政/苦情/公共サービス">
+			<key name="106.公共生活情報"></key>
+			<key name="108.公の秩序/安全"></key>
+			<key name="113.軍隊その他"></key>
+			<key name="102.公共企業/経済"></key>
+			<key name="118.行政/苦情"></key>
+			<key name="104.公共文化/レジャー"></key>
+			<key name="117.特殊部隊"></key>
+			<key name="107.公共職業/勤労"></key>
+			<key name="101.公共教育"></key>
+			<key name="103.公共農水産"></key>
+			<key name="111.公共環境/自然"></key>
+			<key name="112.国防/兵務"></key>
+			<key name="109.公共職業/創業"></key>
+			<key name="100.公共健康"></key>
+			<key name="114.軍隊/防衛"></key>
+			<key name="115.その他の公共サービス"></key>
+			<key name="116.地域開発"></key>
+			<key name="110.公共統計"></key>
+			<key name="105.公共福祉"></key>
+		</key>
+		<key name="104.中央政府/機関">
+			<key name="104.立法機関"></key>
+			<key name="106.中央行政機関"></key>
+			<key name="105.政府委員会"></key>
+			<key name="101.その他の中央機関"></key>
+			<key name="100.警察庁/警察署"></key>
+			<key name="102.司法機関"></key>
+			<key name="103.消防本部/消防署"></key>
+		</key>
+		<key name="103.政治/選挙">
+			<key name="103.政治家"></key>
+			<key name="105.政治フォーラム/団体"></key>
+			<key name="101.選挙機関/団体"></key>
+			<key name="104.政治家ファンクラブ"></key>
+			<key name="100.大統領選挙"></key>
+			<key name="102.政党"></key>
+		</key>
+		<key name="102.政府投資機関">
+			<key name="100.公企業"></key>
+			<key name="102.政府出資研究機関"></key>
+			<key name="101.公団"></key>
+		</key>
+	</key>
+	<key name="105.金融/不動産">
+		<key name="106.銀行">
+			<key name="104.海外銀行"></key>
+			<key name="102.地方銀行"></key>
+			<key name="103.特殊銀行"></key>
+			<key name="100.市中銀行"></key>
+			<key name="101.貯蓄銀行"></key>
+		</key>
+		<key name="105.クレジットカード">
+			<key name="100.クレジットカード"></key>
+			<key name="101.クレジットカードポータル"></key>
+		</key>
+		<key name="108.支払い/決済">
+			<key name="100.安全取引/エスクロー"></key>
+			<key name="103.携帯電話決済"></key>
+			<key name="101.インターネット納付"></key>
+			<key name="102.電子決済/電子マネー"></key>
+		</key>
+		<key name="104.信用情報">
+			<key name="100.信用保証財団"></key>
+			<key name="101.信用情報/クレジット評価"></key>
+		</key>
+		<key name="100.金融">
+			<key name="104.入札"></key>
+			<key name="103.買収合併コンサルティング"></key>
+			<key name="101.金融その他"></key>
+			<key name="106.ポータル金融"></key>
+			<key name="100.金融機関"></key>
+			<key name="105.創業投資/ベンチャーキャピタル"></key>
+			<key name="102.金融ポータル"></key>
+			<key name="107.協同/共済組合"></key>
+		</key>
+		<key name="103.不動産">
+			<key name="102.不動産総合情報"></key>
+			<key name="110.地域の不動産屋（慶尚道）"></key>
+			<key name="111.地域の不動産屋（ソウル）"></key>
+			<key name="112.地域の不動産屋（全羅道）"></key>
+			<key name="100.不動産開発"></key>
+			<key name="106.資産/施設管理"></key>
+			<key name="109.地域の不動産屋（京畿道）"></key>
+			<key name="101.不動産競売"></key>
+			<key name="113.地域の不動産屋（済州島）"></key>
+			<key name="104.アパート/住商複合ブランド"></key>
+			<key name="115.地域分譲広報"></key>
+			<key name="117.海外不動産情報"></key>
+			<key name="114.地域の不動産屋（忠清道）"></key>
+			<key name="107.専門不動産情報"></key>
+			<key name="116.ポータル不動産"></key>
+			<key name="103.不動産コンサルティング"></key>
+			<key name="108.地域の不動産屋（江原道）"></key>
+			<key name="105.ワンルーム/考試院の専門"></key>
+		</key>
+		<key name="107.証券/株式/資産管理">
+			<key name="107.証券会社"></key>
+			<key name="111.ポータル証券"></key>
+			<key name="102.非上場/フリーボード"></key>
+			<key name="109.投資顧問"></key>
+			<key name="101.不動産信託"></key>
+			<key name="108.債券"></key>
+			<key name="104.資産運用/投資信託"></key>
+			<key name="103.ギフト/オプション/債券"></key>
+			<key name="105.ファイナンシャル・プランニング/コンサルティング"></key>
+			<key name="100.模擬投資"></key>
+			<key name="110.ファンド情報"></key>
+			<key name="106.証券/投資情報"></key>
+		</key>
+		<key name="101.ローン">
+			<key name="101.割賦金融/キャピタル"></key>
+			<key name="100.ローン"></key>
+		</key>
+		<key name="102.保険">
+			<key name="102.社会保険/機関"></key>
+			<key name="103.生命保険"></key>
+			<key name="101.保険ポータル"></key>
+			<key name="106.自動車保険"></key>
+			<key name="100.保険その他の"></key>
+			<key name="107.胎児/子供保険"></key>
+			<key name="104.損害/火災保険"></key>
+			<key name="105.オンライン生命保険"></key>
+		</key>
+	</key>
+	<key name="111.スポーツ/レジャー">
+		<key name="102.スポーツ/レジャー用品">
+			<key name="102.釣りショッピングモール"></key>
+			<key name="103.登山/キャンプ用品ショッピングモール"></key>
+			<key name="104.レジャー用品ショッピングモール"></key>
+			<key name="110.自転車/バイクのショッピングモール"></key>
+			<key name="107.スポーツ用品の製造"></key>
+			<key name="111.サッカー用品ショッピングモール"></key>
+			<key name="106.スポーツ用品ショッピングモール"></key>
+			<key name="105.スポーツ/アウトドア衣類"></key>
+			<key name="108.スポーツ衣類ショッピングモール"></key>
+			<key name="101.ゴルフウェアブランド"></key>
+			<key name="109.旅行用品ショッピングモール"></key>
+			<key name="100.ゴルフショッピングモール"></key>
+		</key>
+		<key name="100.冬のスポーツ">
+			<key name="101.スキー/スノーボード"></key>
+			<key name="100.スケート"></key>
+		</key>
+		<key name="105.野外活動/レジャー・スポーツ">
+			<key name="104.ラフティング"></key>
+			<key name="101.競馬"></key>
+			<key name="100.競輪"></key>
+			<key name="108.パラグライディング/ハンググライディング"></key>
+			<key name="103.登山/登攀"></key>
+			<key name="102.釣り"></key>
+			<key name="107.自転車/モーターサイクル"></key>
+			<key name="106.インラインスケート"></key>
+			<key name="105.サバイバルゲーム"></key>
+		</key>
+		<key name="103.スポーツその他">
+			<key name="114.スポーツセンター"></key>
+			<key name="101.企業スポーツ団"></key>
+			<key name="121.プロバスケットボール"></key>
+			<key name="104.大会/試合"></key>
+			<key name="118.総合レジャー/レジャー・スポーツ"></key>
+			<key name="117.異種格闘技"></key>
+			<key name="106.マラソン大会/試合"></key>
+			<key name="107.バレーボールチーム/球団"></key>
+			<key name="103.バスケットボール機関/団体"></key>
+			<key name="108.ボート/ヨット"></key>
+			<key name="102.その他の武芸/格闘技"></key>
+			<key name="112.スポーツその他"></key>
+			<key name="109.ボーリング機関/団体"></key>
+			<key name="116.ウィンドサーフィン/スキューバ"></key>
+			<key name="111.スポーツ関連団体"></key>
+			<key name="119.テコンドー体育館"></key>
+			<key name="110.スイミング/ダイビング"></key>
+			<key name="100.ボクシング"></key>
+			<key name="120.テコンドー協会"></key>
+			<key name="115.スポーツ総合情報"></key>
+			<key name="122.プロレス"></key>
+			<key name="105.マラソン"></key>
+			<key name="113.スポーツ選手"></key>
+		</key>
+		<key name="106.サッカー">
+			<key name="101.アマチュアサッカー"></key>
+			<key name="104.サッカー情報/サポーター"></key>
+			<key name="105.海外プロサッカーチーム"></key>
+			<key name="103.サッカー団体/機関"></key>
+			<key name="100.国内プロサッカーチーム"></key>
+			<key name="102.サッカー競技場"></key>
+		</key>
+		<key name="101.ゴルフ">
+			<key name="102.ゴルフ場"></key>
+			<key name="104.スクリーンゴルフ場"></key>
+			<key name="100.ゴルフ会員権取引所"></key>
+			<key name="101.ゴルフ練習場"></key>
+			<key name="103.ゴルフ情報"></key>
+		</key>
+		<key name="104.野球">
+			<key name="100.国内プロ野球チーム"></key>
+			<key name="103.野球の試合/大会"></key>
+			<key name="101.米プロ野球チーム"></key>
+			<key name="104.野球団体/機関"></key>
+			<key name="105.野球場"></key>
+			<key name="102.アマチュア野球"></key>
+			<key name="106.野球情報"></key>
+			<key name="107.日本プロ野球チーム"></key>
+		</key>
+	</key>
+	<key name="120.就職">
+		<key name="100.求人/就職情報">
+			<key name="103.女性の就業"></key>
+			<key name="105.障害者の就業"></key>
+			<key name="107.総合求人/求職"></key>
+			<key name="106.専門求人/求職"></key>
+			<key name="108.地域求人/求職"></key>
+			<key name="101.高齢者の就業"></key>
+			<key name="109.ヘッドハンティング/人材派遣"></key>
+			<key name="104.履歴書/自己紹介書代行"></key>
+			<key name="100.グループ会社/企業の採用"></key>
+			<key name="102.成人専門求人/求職"></key>
+		</key>
+		<key name="101.アルバイト求人">
+			<key name="100.アルバイト"></key>
+			<key name="101.役割代行"></key>
+		</key>
+	</key>
+	<key name="200.アンドロイドアプリ">
+		<key name="103.天気"></key>
+		<key name="119.ショッピング"></key>
+		<key name="133.Android Wear"></key>
+		<key name="116.写真"></key>
+		<key name="117.生産性"></key>
+		<key name="124.芸術/デザイン"></key>
+		<key name="130.出産/育児"></key>
+		<key name="115.ビジネス"></key>
+		<key name="120.スポーツ"></key>
+		<key name="105.デート"></key>
+		<key name="126.医療"></key>
+		<key name="123.旅行＆地域情報"></key>
+		<key name="108.図書＆参考資料"></key>
+		<key name="111.ライフスタイル"></key>
+		<key name="112.漫画"></key>
+		<key name="107.ツール"></key>
+		<key name="132.キッズ"></key>
+		<key name="101.教育"></key>
+		<key name="113.不動産/ホームインテリア"></key>
+		<key name="114.ビューティー"></key>
+		<key name="125.音楽＆オーディオ"></key>
+		<key name="121.飲食料"></key>
+		<key name="102.金融"></key>
+		<key name="122.エンターテイメント"></key>
+		<key name="110.ライブラリ＆デモ"></key>
+		<key name="129.地図/ナビゲーション"></key>
+		<key name="106.デコレーション"></key>
+		<key name="109.動画プレーヤー/エディタ"></key>
+		<key name="104.ニュース＆雑誌"></key>
+		<key name="131.コミュニケーション"></key>
+		<key name="118.ソーシャル"></key>
+		<key name="100.健康/運動"></key>
+		<key name="127.イベント"></key>
+		<key name="128.自動車"></key>
+	</key>
+	<key name="106.ニュース/メディア">
+		<key name="109.地域日刊紙">
+			<key name="100.地域ニュース"></key>
+		</key>
+		<key name="106.インターネット総合ニュース">
+			<key name="100.記事検索"></key>
+			<key name="101.インターネットニューメディア"></key>
+			<key name="103.通信社"></key>
+			<key name="102.総合インターネット新聞"></key>
+			<key name="104.ポータルニュース"></key>
+		</key>
+		<key name="102.放送局/放送局">
+			<key name="111.地域のケーブル/衛星放送社"></key>
+			<key name="102.クリスチャンインターネット放送"></key>
+			<key name="106.仏教インターネット放送"></key>
+			<key name="100.TV放送"></key>
+			<key name="109.地域放送局"></key>
+			<key name="103.その他のインターネット放送"></key>
+			<key name="104.ラジオ局"></key>
+			<key name="107.衛星/ケーブルチャンネル"></key>
+			<key name="101.個人放送局"></key>
+			<key name="105.放送その他"></key>
+			<key name="108.総合インターネット放送"></key>
+			<key name="110.地域インターネット放送"></key>
+		</key>
+		<key name="101.その他">
+			<key name="100.言論団体/機関"></key>
+		</key>
+		<key name="107.雑誌/ウェブマガジン/専門誌">
+			<key name="117.環境ニュース"></key>
+			<key name="114.宗教新聞"></key>
+			<key name="102.建設/不動産新聞"></key>
+			<key name="101.ITニュース"></key>
+			<key name="106.放送ニュース"></key>
+			<key name="107.生活情報紙"></key>
+			<key name="108.薬学新聞"></key>
+			<key name="110.外国の新聞/雑誌"></key>
+			<key name="115.青少年/大学新聞"></key>
+			<key name="105.メールマガジン"></key>
+			<key name="116.ファッション/アパレル専門誌"></key>
+			<key name="113.障害者新聞"></key>
+			<key name="104.男性誌"></key>
+			<key name="100.IT/情報通信専門誌"></key>
+			<key name="103.その他の専門誌"></key>
+			<key name="109.女性/主婦専門誌"></key>
+			<key name="111.ウェブマガジン"></key>
+			<key name="112.自動車専門誌"></key>
+		</key>
+		<key name="105.芸能日刊紙">
+			<key name="100.芸能/娯楽専門誌"></key>
+		</key>
+		<key name="103.スポーツ日刊紙">
+			<key name="100.スポーツ新聞"></key>
+		</key>
+		<key name="100.経済日刊紙">
+			<key name="100.経済新聞"></key>
+		</key>
+		<key name="104.時事専門">
+			<key name="100.時事/経済専門誌"></key>
+		</key>
+		<key name="108.総合日刊紙">
+			<key name="100.無料日刊紙"></key>
+			<key name="101.総合日刊紙"></key>
+		</key>
+	</key>
+	<key name="110.社会">
+		<key name="101.国内地域情報">
+			<key name="107.釜山広域市"></key>
+			<key name="103.慶尚北道"></key>
+			<key name="102.慶尚南道"></key>
+			<key name="109.蔚山広域市"></key>
+			<key name="110.仁川広域市"></key>
+			<key name="114.地域/商店街ポータル"></key>
+			<key name="113.済州島"></key>
+			<key name="104.光州広域市"></key>
+			<key name="105.大邱広域市"></key>
+			<key name="106.大田広域市"></key>
+			<key name="117.忠清北道"></key>
+			<key name="115.地域情報その他"></key>
+			<key name="108.ソウル特別市"></key>
+			<key name="100.江原道"></key>
+			<key name="101.京畿道"></key>
+			<key name="111.全羅南道"></key>
+			<key name="116.忠清南道"></key>
+			<key name="112.全羅北道"></key>
+		</key>
+		<key name="100.NGO">
+			<key name="100.国内NGO"></key>
+			<key name="101.外国NGO"></key>
+		</key>
+		<key name="105.海外地域情報">
+			<key name="103.日本"></key>
+			<key name="104.中国"></key>
+			<key name="107.海外地域情報その他"></key>
+			<key name="101.アフリカ"></key>
+			<key name="100.米国"></key>
+			<key name="106.カナダ"></key>
+			<key name="102.ヨーロッパ"></key>
+			<key name="105.中東"></key>
+			<key name="108.オーストラリア/ニュージーランド"></key>
+		</key>
+		<key name="104.宗教">
+			<key name="107.宗教サークル/同好会"></key>
+			<key name="104.宣教"></key>
+			<key name="102.その他の宗教/霊的世界"></key>
+			<key name="109.カトリック"></key>
+			<key name="103.仏教"></key>
+			<key name="106.宗教団体"></key>
+			<key name="101.クリスチャンポータル"></key>
+			<key name="105.円仏教"></key>
+			<key name="108.宗教音楽"></key>
+			<key name="100.教会"></key>
+		</key>
+		<key name="103.人権/福祉/労働">
+			<key name="102.国際人権"></key>
+			<key name="113.女性の人権"></key>
+			<key name="100.孤児院/保育園"></key>
+			<key name="117.青少年相談センター"></key>
+			<key name="103.労働組合"></key>
+			<key name="112.女性団体/機関"></key>
+			<key name="118.青少年修練館"></key>
+			<key name="105.高齢者の人権"></key>
+			<key name="106.文化センター"></key>
+			<key name="116.障害者福祉施設"></key>
+			<key name="107.福祉団体/機関"></key>
+			<key name="115.障害者機関/団体"></key>
+			<key name="104.高齢者"></key>
+			<key name="109.社会貢献/ CSR"></key>
+			<key name="114.養子縁組/未婚の母"></key>
+			<key name="108.奉仕/寄付"></key>
+			<key name="120.青少年会館"></key>
+			<key name="111.児童の人権"></key>
+			<key name="119.青少年委員会"></key>
+			<key name="101.共済会"></key>
+			<key name="110.労働災害"></key>
+		</key>
+		<key name="102.その他">
+			<key name="101.南北統一"></key>
+			<key name="103.リサイクル/廃棄物処理"></key>
+			<key name="102.アンチサイト"></key>
+			<key name="104.環境機関/団体"></key>
+			<key name="105.環境運動/キャンペーン"></key>
+			<key name="100.その他"></key>
+		</key>
+	</key>
+	<key name="119.総合ショッピング">
+		<key name="104.海外ショッピング/購買代行">
+			<key name="101.海外ショッピング代行"></key>
+			<key name="100.海外配送代行/購買代行"></key>
+		</key>
+		<key name="100.価格比較">
+			<key name="100.専門価格比較"></key>
+			<key name="102.ポータルショッピング"></key>
+			<key name="101.総合価格比較"></key>
+		</key>
+		<key name="102.ショッピング情報/ショッピングその他">
+			<key name="102.リース/レンタル"></key>
+			<key name="112.総合モールリンク/検索"></key>
+			<key name="107.ショッピングセンター"></key>
+			<key name="104.免税店"></key>
+			<key name="100.大型マート/ SSM"></key>
+			<key name="103.リワード/無料景品"></key>
+			<key name="111.総合競売"></key>
+			<key name="106.サブスクリプションコマース"></key>
+			<key name="115.割引/クーポン"></key>
+			<key name="108.在来/卸売市場"></key>
+			<key name="113.統合マイレージ"></key>
+			<key name="109.積立/割引カード"></key>
+			<key name="105.百貨店"></key>
+			<key name="110.専門競売"></key>
+			<key name="114.コンビニ"></key>
+			<key name="101.ダンピング"></key>
+		</key>
+		<key name="101.ソーシャルコマース">
+			<key name="100.メタソーシャルコマース"></key>
+			<key name="101.ソーシャルコマース"></key>
+		</key>
+		<key name="103.オンライン総合ショッピングモール">
+			<key name="101.オープンマーケット"></key>
+			<key name="100.大型マートショッピングモール"></key>
+			<key name="103.カード会社/ポイントショッピングモール"></key>
+			<key name="102.総合ショッピングモール"></key>
+		</key>
+	</key>
+</root>

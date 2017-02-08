@@ -1,0 +1,66 @@
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JList;
+import javax.swing.JTextPane;
+import javax.swing.JTable;
+import javax.swing.JButton;
+
+public class frame {
+
+	private JFrame frame;
+	private JTable table;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					frame window = new frame();
+					window.frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public frame() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frame = new JFrame();
+		frame.setBounds(50, 50, 1150, 700);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.getContentPane().setLayout(null);
+		
+		JList list = new JList();
+		list.setBounds(6, 6, 280, 666);
+		frame.getContentPane().add(list);
+		
+		JList list_1 = new JList();
+		list_1.setBounds(954, 6, 190, 666);
+		frame.getContentPane().add(list_1);
+		
+		JTextPane textPane = new JTextPane();
+		textPane.setBounds(292, 6, 656, 45);
+		frame.getContentPane().add(textPane);
+		
+		table = new JTable();
+		table.setBounds(292, 57, 592, 220);
+		frame.getContentPane().add(table);
+		
+		JButton btnNewButton = new JButton("New button");
+		btnNewButton.setBounds(890, 137, 60, 60);
+		frame.getContentPane().add(btnNewButton);
+	}
+}

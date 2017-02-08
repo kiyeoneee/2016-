@@ -1,0 +1,93 @@
+package XmlData;
+
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JList;
+import javax.swing.JButton;
+import javax.swing.JScrollPane;
+import javax.swing.JComboBox;
+import javax.swing.JTextPane;
+
+public class jFrame extends JFrame {
+
+	private JPanel contentPane;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					jFrame frame = new jFrame();
+					frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the frame.
+	 */
+	public jFrame() {
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBounds(100, 100, 512, 550);
+		contentPane = new JPanel();
+		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
+		setContentPane(contentPane);
+		contentPane.setLayout(null);
+		
+		JList list1 = new JList();
+		list1.setBounds(8, 8, 118, 268);
+		contentPane.add(list1);
+		
+		JList list2 = new JList();
+		list2.setBounds(134, 8, 118, 268);
+		contentPane.add(list2);
+		
+		JList list3 = new JList();
+		list3.setBounds(260, 8, 118, 268);
+		contentPane.add(list3);
+		
+		JList list4 = new JList();
+		list4.setBounds(386, 8, 118, 268);
+		contentPane.add(list4);
+		
+		JButton button1 = new JButton("+");
+		button1.setBounds(8, 277, 118, 29);
+		contentPane.add(button1);
+		
+		JButton button2 = new JButton("+");
+		button2.setBounds(134, 277, 118, 29);
+		contentPane.add(button2);
+		
+		JButton button3 = new JButton("+");
+		button3.setBounds(260, 277, 118, 29);
+		contentPane.add(button3);
+		
+		JButton button4 = new JButton("+");
+		button4.setBounds(386, 277, 118, 29);
+		contentPane.add(button4);
+		
+		JList list = new JList();
+		list.setBounds(8, 307, 496, 128);
+		contentPane.add(list);
+
+		JTextPane textPane = new JTextPane();
+		textPane.setBounds(8, 444, 410, 43);
+		contentPane.add(textPane);
+		
+		JComboBox comboBox = new JComboBox();
+		comboBox.setBounds(6, 488, 417, 43);
+		contentPane.add(comboBox);
+		
+		
+		
+	}
+}

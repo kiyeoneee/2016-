@@ -1,0 +1,25 @@
+package CategoryClassification;
+
+import java.util.List;
+
+import javax.swing.AbstractListModel;
+import javax.swing.JList;
+
+public class MyListModel<T> extends AbstractListModel<T> {
+
+    private JList<T> people;
+
+    public MyListModel(JList<T> people) {
+        this.people = people;
+    }
+
+    @Override
+    public int getSize() {
+        return people.getComponentCount();
+    }
+
+    @Override
+    public T getElementAt(int index) {
+        return people.;
+    }
+}
