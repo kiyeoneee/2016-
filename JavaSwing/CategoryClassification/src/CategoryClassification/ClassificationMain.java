@@ -30,8 +30,6 @@ public class ClassificationMain {
 	//private JFrame frame;
 	//private JTable table;
 
-	
-	
 	public static void main(String[] args) {
 		ClassificationMain CM = new ClassificationMain();
 	}
